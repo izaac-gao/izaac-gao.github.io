@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: alix.gao # the main title
+title: izaac.gao # the main title
 
 tagline: articles # it will display as the sub-title
 
@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://alix-gao.github.io"
+url: "https://izaac-gao.github.io"
 
 github:
-  username: alix-gao # change to your github username
+  username: izaac-gao # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: alix.gao
-  email: alix.gao@qq.com # change to your email address
+  name: izaac.gao
+  email: izaac.gao@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -117,7 +117,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: alix-gao/alix-gao.github.io # <gh-username>/<repo>
+    repo: izaac-gao/izaac-gao.github.io # <gh-username>/<repo>
     repo_id: R_kgDOMjulOQ
     category: Announcements
     category_id: DIC_kwDOMjulOc4Ch-z1
